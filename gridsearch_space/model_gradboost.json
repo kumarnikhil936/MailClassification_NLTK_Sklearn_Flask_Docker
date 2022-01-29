@@ -1,0 +1,8 @@
+{
+    "tfidf__ngram_range": [(1, 2)],
+    "tfidf__max_df": [0.1, 0.3, 0.5, 0.7],
+    "tfidf__min_df": [10, 30, 50, 70],
+    "gbc__learning_rate": [0.001, 0.01],
+    "gbc__max_features": ['sqrt', 'log2'],
+    "gbc__n_estimators": [1000],
+}

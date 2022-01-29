@@ -1,0 +1,1 @@
+{"svc__C": 0.4, "svc__max_iter": 5000, "svc__penalty": "l2", "tfidf__max_df": 0.3, "tfidf__min_df": 10, "tfidf__ngram_range": [1, 2]}

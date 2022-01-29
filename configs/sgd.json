@@ -1,0 +1,1 @@
+{"sgd__alpha": 0.0001, "sgd__loss": "modified_huber", "sgd__max_iter": 2000, "sgd__tol": 0.0001, "tfidf__max_df": 0.3, "tfidf__min_df": 10, "tfidf__ngram_range": [1, 2]}

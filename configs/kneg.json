@@ -1,0 +1,1 @@
+{"knc__algorithm": "ball_tree", "knc__n_neighbors": 7, "tfidf__max_df": 0.5, "tfidf__min_df": 50, "tfidf__ngram_range": [1, 2]}

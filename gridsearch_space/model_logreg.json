@@ -1,0 +1,8 @@
+{
+    "tfidf__ngram_range": [(1, 2)],
+    "tfidf__max_df": [0.1, 0.3, 0.5, 0.7],
+    "tfidf__min_df": [10, 30, 50, 70],
+    "logreg__solver": ['newton-cg', 'liblinear', 'sag'],
+    "logreg__penalty": ['l1', 'l2', 'elasticnet'],
+    "logreg__max_iter": [2000]
+}

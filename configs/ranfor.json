@@ -1,0 +1,1 @@
+{"rfc__criterion": "entropy", "rfc__max_features": "sqrt", "rfc__n_estimators": 1000, "tfidf__max_df": 0.5, "tfidf__min_df": 10, "tfidf__ngram_range": [1, 2]}
